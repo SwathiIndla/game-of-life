@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ShowGridPage extends GameOfLifePage {
+public class ShowGridPage extends GameOfLifePage { 
 
     @FindBy(id = "submit")
     WebElement nextButton;
