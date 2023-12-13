@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-@DefaultUrl("http://localhost:9090/gameoflife/home")
+@DefaultUrl("http://40.124.138.2:9090/gameoflife/home")
 public class HomePage extends GameOfLifePage {
 
     @FindBy(linkText = "New Game")
