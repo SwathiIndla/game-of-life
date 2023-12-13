@@ -6,7 +6,7 @@ import com.wakaleo.gameoflife.webtests.pages.HomePage;
 import com.wakaleo.gameoflife.webtests.pages.ShowGridPage;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.pages.Pages;
-
+ 
 import static org.fest.assertions.Assertions.assertThat;
 
 public class PlayerSteps {
