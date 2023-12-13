@@ -6,7 +6,7 @@ public class GameOfLifeApplication {
 
     @Feature
     public class RunSimulations {
-        public class RunASimulation {
+        public class RunASimulation { 
         }
     }
 
